@@ -13,7 +13,7 @@
 
 **Lemonade was an open source and experimental emulator, that emulated the functionality of a Nintendo 3DS system on operating systems such as Windows, Linux and Android.**
 
-It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, Drama happened between  us and PabloMK7. We broke the GPL licenses, and the community acted accordingly, causing the rest of the team to leave my project. So for now, this project _is dead._
+It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, Drama happened between  us and PabloMK7. We broke the GPL licenses due to git handling issues, and the community started to beat us everywhere, causing the rest of the team to leave my project. So for now, this project _is dead._
 
 <h1 align="center">
   How to download Lemonade? NOT AVAILABLE
