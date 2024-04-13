@@ -13,45 +13,11 @@
 
 **Lemonade was an open source and experimental emulator, that emulated the functionality of a Nintendo 3DS system on operating systems such as Windows, Linux and Android.**
 
-It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, Drama happened between  us andPabloMK7. We broke the GPL licenses, and the community acted accordingly, causing the rest of the team to leave my project. So for now, this project _is dead._
+It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, Drama happened between  us and PabloMK7. We broke the GPL licenses, and the community acted accordingly, causing the rest of the team to leave my project. So for now, this project _is dead._
 
 <h1 align="center">
   How to download Lemonade? NOT AVAILABLE
   </h1>
-
-**It is recommended to use release builds**
-
-[![Download - Latest Release](https://img.shields.io/badge/Download-Latest_Release-2ea44f?logo=github&logoColor=e)](https://github.com/Lemonade-emu/Lemonade/releases/latest)
-
-**For Windows there is also an installer which you can get (NOT WORKING FOR NOW) [here](https://github.com/Lemonade-emu/Lemonade-installer)**
-
-Or you can get latest nightly builds: **⚠️ May be completely broken (Not recommended for daily use)**
-|Platform|Status|Download|
-|--------|------------|--------|
-|Windows build|[![Qt Build](https://github.com/Lemonade-emu/Lemonade/actions/workflows/build.yml/badge.svg)](https://github.com/Lemonade-emu/Lemonade/actions/workflows/Qt_Build.yml)|[Windows MSVC](https://nightly.link/Lemonade-emu/Lemonade/workflows/build/master/windows-msvc.zip)|
-|Android build|[![Qt Build](https://github.com/Lemonade-emu/Lemonade/actions/workflows/build.yml/badge.svg)](https://github.com/Lemonade-emu/Lemonade/actions/workflows/Qt_Build.yml)|[Android-APK](https://nightly.link/Lemonade-emu/Lemonade/workflows/build/master/Android-APK.zip)|
-|Linux build|[![Qt Build](https://github.com/Lemonade-emu/Lemonade/actions/workflows/build.yml/badge.svg)](https://github.com/Lemonade-emu/Lemonade/actions/workflows/Qt_Build.yml)|[Linux AppImage](https://nightly.link/Lemonade-emu/Lemonade/workflows/build/master/linux-appimage.zip)|
-|Mac OS build (untested)|[![Qt Build](https://github.com/Lemonade-emu/Lemonade/actions/workflows/build.yml/badge.svg)](https://github.com/Lemonade-emu/Lemonade/actions/workflows/Qt_Build.yml)|[Mac OS Universal](https://nightly.link/Lemonade-emu/Lemonade/workflows/build/master/macos-universal.zip)|
-
-<h1 align="center">
-  Bug Reports?
-  </h1>
-
-**Please, before you make a bug report confirm that the issues only happens on Lemonade**
-
-- We will try to fix __base__ bugs too, but we need to know if the issues were caused by us or was in the __base__ itself
-
-<h1 align="center">
-  Compatibility
-  </h1>
-
-**Please fill out our new compatibillity tracker that can be found [here](https://github.com/Lemonade-emu/Lemonade-Games-List)**
-
-<h1 align="center">
-  How to build Lemonade
-  </h1>
-
-**For building instructions go [here](https://github.com/Lemonade-emu/Lemonade/blob/master/BUILDING.md). If you face any issues feel free to contact us on our Discord server, we still are looking for more devs so any help is appreciated**
 
 | Main Dev |
 | :---: |
