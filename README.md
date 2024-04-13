@@ -13,10 +13,10 @@
 
 **Lemonade was an open source and experimental emulator, that emulated the functionality of a Nintendo 3DS system on operating systems such as Windows, Linux and Android.**
 
-It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, a drama happened with PabloMK7 and it's GPL licenses, and community started to beat us, causing the rest of devs leave my project. So for now, this project _died._
+It was started after _citra_, a previous Nintendo 3DS emulator, was discontinued. The Lemonade Project was created to continue the work of _citra_, fixing its issues and improving its performance and compatibility. Sadly, Drama happened between  us andPabloMK7. We broke the GPL licenses, and the community acted accordingly, causing the rest of the team to leave my project. So for now, this project _is dead._
 
 <h1 align="center">
-  How to download Lemonade? NOT AVAILABLE FOR NOW
+  How to download Lemonade? NOT AVAILABLE
   </h1>
 
 **It is recommended to use release builds**
@@ -53,19 +53,6 @@ Or you can get latest nightly builds: **⚠️ May be completely broken (Not rec
 
 **For building instructions go [here](https://github.com/Lemonade-emu/Lemonade/blob/master/BUILDING.md). If you face any issues feel free to contact us on our Discord server, we still are looking for more devs so any help is appreciated**
 
-<h1 align="center">
-  Team 🙌
-  </h1>
-
 | Main Dev |
 | :---: |
 | <img src="https://github.com/Gamer64ytb.png?size=115" width=115><br><sub>@Gamer64</sub> <br><br>  |
-
-<h1 align="center">
-  Regular Contributors
-</h1>
-
-| Logo Creator | Contributor | Contributor |
-| :---: | :---: | :---: |
-| <img src="https://github.com/N0Y0U2114.png?size=115" width=115><br><sub>@N0Y0U2114</sub> <br><br> | <img src="https://github.com/cybereality.png?size=115" width=115><br><sub>@cybereality</sub> <br><br>  | <img src="https://github.com/dnmodder.png?size=115" width=115><br><sub>@dnmodder</sub> <br><br> |
-
